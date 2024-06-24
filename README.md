@@ -1,4 +1,4 @@
-Vrinda Store Annual Report 2022 by Excel:
+# Vrinda Store Annual Report 2022 using Excel:
 
 🔎Objective:
 To understand vrinda's store customer base better and devise strategies for boosting sales in 2023.
